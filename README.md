@@ -71,12 +71,18 @@ https://github.com/Deepika-sharma2008
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepika-sharma2008&show_icons=true&theme=radical&cache_seconds=1800)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepika-sharma2008&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepika-sharma2008&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Deepika-sharma2008&theme=radical&hide_border=false)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Deepika-sharma2008&theme=radical&hide_border=true" />
+</p>
 
 
 --- 
@@ -96,9 +102,6 @@ https://github.com/Deepika-sharma2008
 
 💼 LinkedIn:  
 www.linkedin.com/in/deepika-sharma-024469396
-
-🌐 Portfolio:  
---
 
 💻 GitHub:  
 https://github.com/Deepika-sharma2008
