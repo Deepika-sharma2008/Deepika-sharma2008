@@ -87,7 +87,9 @@ https://github.com/Deepika-sharma2008/SignVox
 --- 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Deepika-sharma2008/Deepika-sharma2008/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Deepika-sharma2008/Deepika-sharma2008/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
