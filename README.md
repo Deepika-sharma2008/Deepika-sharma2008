@@ -69,12 +69,12 @@ https://github.com/Deepika-sharma2008
 
 ---
 
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepika-sharma2008&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepika-sharma2008&layout=compact&theme=radical&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Deepika-sharma2008&show_icons=true&theme=radical" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepika-sharma2008&layout=compact&theme=radical" />
 
 ---
 
