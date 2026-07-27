@@ -95,9 +95,8 @@ https://github.com/Deepika-sharma2008/SignVox
 
 ## 🏆 LeetCode Stats
 
-<p align="center>
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/Deepika0265?theme=dark&font=Baloo%202&ext=contest)](https://leetcode.com/u/Deepika0265/)
-</p>
+<ing src="https://leetcard.jacoblin.cool/Deepika0265?theme=dark&font=Baloo%202&ext=contest)](https://leetcode.com/u/Deepika0265/">
+
 
 ---
 
