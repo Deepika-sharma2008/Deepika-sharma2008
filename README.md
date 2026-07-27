@@ -2,10 +2,10 @@
 
 <img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
 
-🎓 BCA Student  
-💻 Aspiring Full Stack Developer  
-🌱 Currently learning React, Node.js & Database
-🔥 Solving Data Structures & Algorithms problems on LeetCode  
+### 💻  Full Stack Developer | DSA Enthusiast | AI Explorer
+
+🎓 BCA Student    
+🌱 Currently learning React, Node.js & Database 
 
 ---
 
@@ -39,6 +39,8 @@
 ### Backend & Database
 
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
 ### Tools
@@ -65,16 +67,13 @@ AI-powered sign language recognition system using:
 ✅ Voice output support  
 
 🔗 Repository:
-https://github.com/Deepika-sharma2008
-
+https://github.com/Deepika-sharma2008/SignVox
 ---
 
 
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Deepika-sharma2008&show_icons=true&theme=radical" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepika-sharma2008&layout=compact&theme=radical" />
 
 ---
 
@@ -94,26 +93,26 @@ https://github.com/Deepika-sharma2008
 
 ## 🏆 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Deepika0265?theme=dark&font=Baloo%202&ext=contest)](https://leetcode.com/u/YOUR_USERNAME/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Deepika0265?theme=dark&font=Baloo%202&ext=contest)](https://leetcode.com/u/Deepika0265/)
 
 ---
 
 ## 🌐 Connect With Me
 
 💼 LinkedIn:  
-www.linkedin.com/in/deepika-sharma-024469396
+[LinkedIn](https://www.linkedin.com/in/deepika-sharma-024469396)
 
 💻 GitHub:  
-https://github.com/Deepika-sharma2008
+[GitHub](https://github.com/Deepika-sharma2008)
 
 🧩 LeetCode:  
-https://leetcode.com/u/Deepika0265/
+[LeetCode](https://leetcode.com/u/Deepika0265/)
 
 ---
 
 ## 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=Deepika-sharma2008&label=Profile%20Views&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Deepika-sharma2008&color=9b59b6)
 
 ---
 
