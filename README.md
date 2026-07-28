@@ -2,12 +2,9 @@
 
 <img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
 
-### 💻  Full Stack Developer | DSA Enthusiast | AI Explorer
+### 💻   BCA Student  | Full Stack Developer | DSA Enthusiast | AI Explorer
 
-🎓 BCA Student    
-🌱 Currently learning React, Node.js  
 
----
 
 ## 🚀 About Me
 
