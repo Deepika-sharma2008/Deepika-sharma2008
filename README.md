@@ -5,7 +5,7 @@
 ### 💻  Full Stack Developer | DSA Enthusiast | AI Explorer
 
 🎓 BCA Student    
-🌱 Currently learning React, Node.js & Database 
+🌱 Currently learning React, Node.js  
 
 ---
 
