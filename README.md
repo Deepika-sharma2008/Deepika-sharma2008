@@ -49,25 +49,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-## SignVox - Real-Time Sign Language Detection System
-
-AI-powered sign language recognition system using:
-
-- Python
-- OpenCV
-- MediaPipe
-- TensorFlow/Keras
-
-### Features:
-✅ Real-time gesture detection  
-✅ Converts signs into text  
-✅ Voice output support  
-
-🔗 Repository:
-https://github.com/Deepika-sharma2008/SignVox
----
 
 
 ## 📊 GitHub Stats
